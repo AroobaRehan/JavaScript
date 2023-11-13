@@ -1,2 +1,2 @@
 # JavaScript
-Files uploadedon github gist
+Files uploaded on github gist
