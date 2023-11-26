@@ -1,0 +1,61 @@
+
+.i3
+{
+   color:white;
+}
+
+
+.i1
+{
+	height:50px;
+	width:300px;
+  float:right;
+  padding:3px;
+}
+
+#box1
+{
+  width:960px;
+  margin:auto;
+  background-color:#800000;
+}
+.i2
+{
+	height:50px;
+	width:300px;
+  float:left;
+  padding:3px;
+}
+
+#box2
+{
+  width:960px;
+  margin:auto;
+  background-color:darkslategrey;
+}
+
+#box3
+{
+  width:960px;
+  margin:auto;
+  background-color:lightsteelblue;
+}
+
+#box4
+{
+  width:960px;
+  margin:auto;
+  background-color:midnightblue;
+}
+#box5
+{
+  width:960px;
+  margin:auto;
+  background-color:	darkslategrey;
+}
+#box6
+{
+  width:960px;
+  margin:auto;
+  background-color:olivedrab;
+}
